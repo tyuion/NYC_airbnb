@@ -16,7 +16,7 @@ There are two files in the repository. NYC_airbnb.ipynb is the Jupyter notebook 
 # Libraries
 Libraries used in this work include numpy, pandas, matplotlib, seaborn, wordcloud, and sklearn.
 
-# Conclusion
+# Conclusions
 1. The listings show a clear difference among the neighbourhoods of NYC, incuding the numbers of listing, room type, availability,
 and price.
 2. The price is mainly affected by the location and room type. Meanwhile, there are interesting correlations between price and 

@@ -1,9 +1,9 @@
 # Motivation
 
 Airbnb has been widely used these days by people for traveling. Here, I try to explore the NYC airbnb dataset to understand the airbnb market in NYC. In particular, to get some insights regarding the following questions:
-    1. What is the difference among the neighbourhood of NYC?
-    2. Which factors affect the price?
-    3. Can we predict the price?
+1. What is the difference among the neighbourhood of NYC?
+2. Which factors affect the price?
+3. Can we predict the price?
 
 # Dataset
 The dataset is from Kaggle (https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data). It has around 49,000 observations with 16 columns. 

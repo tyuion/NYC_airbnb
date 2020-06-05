@@ -18,7 +18,7 @@ Libraries used in this work include numpy, pandas, matplotlib, seaborn, wordclou
 1. The listings show a clear difference among the neighbourhoods of NYC, regarding the numbers of listing, room type, availability, and price.
 2. The price is mainly affected by the location and room type. Meanwhile, there are interesting correlations between price and 
 some other features (e.g., the minimum_nights, calaculated_host_listings_count).
-3. The price is predicted using three different models: linear regression, decision tree, and random forest. Random forest gives the best result with an R2 score of 0.445. The score is still not high. It might because the features used are not quite correlated with the price. More features are needed for a better result.
+3. The price is predicted using three different models: linear regression, decision tree, and random forest. Random forest gives the best result with an R2 score of 0.45. The score is still not high. It might because the features used are not quite correlated with the price. More features are needed for a better result.
 
 The main findings can also be found at the my medium post (https://medium.com/@tyuion1215/newyorkcity-airbnb-data-analysis-visualization-and-predication-8397943066f9)
 
